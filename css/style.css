@@ -1,0 +1,44 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+
+    background-color: rgb(230, 135, 12);
+}
+
+.paragraph1 {
+    background-color: pink;
+}
+
+h2 {
+    background-color: brown;
+}
+
+.paragraph2 {
+    background-color: blue;
+}
+
+#first {
+    color: white;
+}
+
+#second {
+    color: rgb(134, 19, 19);
+}
+
+#third {
+    color: green;
+}
+
+#fourth {
+    color: gray;
+}
+
+#fifth {
+    color: gold;
+}
+
+ol {
+    background-color: rgb(33, 180, 20);
+}
